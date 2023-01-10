@@ -1,4 +1,6 @@
-# wireless_pairs_LabRemake
-Remake/Revamp of the indoors (lab8) of the Wireless Pairs course.
+# Wireless Pairs Lab Remake
+Remake/Revamp of the indoors lab (lab8) of the Wireless Pairs course.
 
-Used and run in Octave.
+# How to run:
+1. Install Octave
+2. Open Octave and run mainDialog.m
