@@ -6,12 +6,17 @@
 ## @end deftypefn
 
 function main()
-  addPaths()
-  mainDialog_def;
-  show_mainDialog();
+    print(pwd())
+  #addPaths()
+  #mainDialog_def;
+  #show_mainDialog();
 end
 
 function addPaths()
+  addpath(genpath(pwd ()))
+end
+
+function addPaths2()
   addpath("src/")
   addpath("src/room")
   addpath("src/scenario1")
