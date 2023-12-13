@@ -6,15 +6,15 @@
 ## @end deftypefn
 
 function main()
-  #addPaths()
-  #mainDialog_def;
-  #show_mainDialog();
+  addPaths();
+  mainDialog_def;
+  show_mainDialog();
 end
 
 function addPaths()
-  srcPath = [pwd() "\\src"]
-  allpaths = genpath(srcPath)
-  addpath(allpaths)
+  srcPath = [pwd() "\\src"];
+  allpaths = genpath(srcPath);
+  addpath(allpaths);
 end
 
 function addPaths2()
