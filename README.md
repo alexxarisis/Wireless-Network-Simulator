@@ -53,7 +53,7 @@ Selection of up to 50 transmission points.
 ### Scenario 1 - PDP at line
 
 !['PDP at line - K factor'](images/PDP_at_line-K_factor.png)
-!['PDP at line - RMS T'](images\PDP_at_line-RMS_T.png)
+!['PDP at line - RMS T'](images/PDP_at_line-RMS_T.png)
 
 ### Scenario 2 - OFDM Network
 
