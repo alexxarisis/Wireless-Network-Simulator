@@ -985,7 +985,8 @@ function about_Callback(src, data)
       'FontWeight', 'normal', ...
       'Position', [0 55 120 120] );
 
-    Img = imread('about_image.png');
+    imagePath = [pwd(), "\\src", "\\resources", "\\images\\", "about_image.png"];
+    Img = imread(imagePath);
     imshow(Img, 'parent', image_axis);
 
     % Texts
