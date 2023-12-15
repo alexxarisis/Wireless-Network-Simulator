@@ -34,7 +34,7 @@ Customizable configurations:
 * Destination line (Rx Line)
 * Number of ray interactions (bounces)
 
-!['Scenario 1'](images/scenario1.jpg)
+!['Scenario 1'](assets/scenario1.jpg)
 
 ### Scenario 2
 
@@ -46,19 +46,19 @@ Provides analysis of the following networks
 
 Selection of up to 50 transmission points.
 
-!['Scenario 2'](images/scenario2.jpg)
+!['Scenario 2'](assets/scenario2.jpg)
 
 ## Example Outputs
 
 ### Scenario 1 - PDP at line
 
-!['PDP at line - K factor'](images/PDP_at_line-K_factor.png)
-!['PDP at line - RMS T'](images/PDP_at_line-RMS_T.png)
+!['PDP at line - K factor'](assets/PDP_at_line-K_factor.png)
+!['PDP at line - RMS T'](assets/PDP_at_line-RMS_T.png)
 
 ### Scenario 2 - OFDM Network
 
-!['PDP at line - K factor'](images/OFDM_SNIR.png)
-!['PDP at line - RMS T'](images/OFDM_Mod.png)
+!['PDP at line - K factor'](assets/OFDM_SNIR.png)
+!['PDP at line - RMS T'](assets/OFDM_Mod.png)
 
 # Documentation
 A detailed explanation of the underlying implementation is available in `Documentation.pdf`.
